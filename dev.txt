@@ -1,1 +1,2 @@
+This line is added in the dev branch
 This is a sample file on dev branch
